@@ -1,8 +1,8 @@
 # Instacart Grocery Basket Analysis 
 
-Project based on an online grocery delivery app. Performed an initial data and exploratory analysis of Instacart's sales patterns and customers' ordering habits. Derived insights and suggested marketing strategies for better segmentation.
+Project is based on an online grocery delivery app. Performed an initial data and exploratory analysis of Instacart's sales patterns and customers' ordering habits. Derived insights and suggested marketing strategies for better segmentation.
 
-*Primary Objectives:*
+**Primary Objectives:**
 
 * Develop an analysis using Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)
 * Import all datasets from csv files into each script
