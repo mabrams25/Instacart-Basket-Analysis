@@ -12,12 +12,12 @@ Project is based on an online grocery delivery app. Performed an initial data an
 * Generate visualizations to communicate insights to stakeholders
 * Organize Python scripts with headings and decriptive comments
 
-# Files
+# Folders
 
 Here is the structure of the repository:
 ```
-Analysis              # Folder contains all the visualizations made from scripts
-Project Management    # Folder contains all the documentations related to the project
-Scripts               # Scripts include importing/combining/exporting csv files, data wrangling, deriving new variables, aggregating values, and visualizations 
-Send to Client        # Folder contains the latest versions of any results produced
+Analysis            # Folder contains all the visualizations made from scripts
+Project Management  # Folder contains all the documentations related to the project
+Scripts             # Folder contains scripts: importing/combining/exporting csv files, data wrangling, deriving new variables, aggregating values, visualizations 
+Send to Client      # Folder contains the latest versions of any results produced
 ```
