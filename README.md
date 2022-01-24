@@ -10,7 +10,7 @@ Project is based on an online grocery delivery app. Performed an initial data an
 * Merge all data sets into a single data set
 * Derive new columns from old columns to meet certain needs of the analysis
 * Generate visualizations to communicate insights to stakeholders
-* Organize Python scripts with headings and decriptive comments
+* Organize Python scripts with headings and descriptive comments
 
 # Folders
 
